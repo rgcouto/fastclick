@@ -1,0 +1,20 @@
+{
+  "name": "rgcouto/fastclick",
+  "type": "component",
+  "description": "Slim wrapper of FT Labs Fastclick.",
+  "homepage": "https://github.com/ftlabs/fastclick",
+  "keywords": ["fastclick", "mobile", "touch", "tap", "click", "delay"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rowan Beentje",
+      "email": "rowan.beentje@ft.com",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "components/jquery": ">=1.10",
+    "components/bootstrap": "3.x",
+    "moment/moment": ">=2.9.0"
+  }
+}
